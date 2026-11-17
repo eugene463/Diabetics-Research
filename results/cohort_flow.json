@@ -1,0 +1,11 @@
+{
+  "raw_encounters": 101766,
+  "raw_patients": 71518,
+  "excluded_died_or_hospice": 2423,
+  "excluded_invalid_gender": 3,
+  "final_encounters": 99340,
+  "final_patients": 69987,
+  "readmit_30d_prevalence": 0.1139,
+  "analysis_encounters": 99340,
+  "analysis_patients": 69987
+}

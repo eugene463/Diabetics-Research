@@ -1,0 +1,5 @@
+,encounters,patients,readmission_rate
+train,59517,41993,0.1134
+val,9824,6998,0.1083
+calib,10027,6999,0.1139
+test,19972,13997,0.1182
