@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Predicting 30-day hospital readmission in patients with diabetes
 
 Statistical inference, model comparison and calibration on 99,340 hospital encounters from the Diabetes 130-US hospitals dataset.
@@ -230,4 +229,4 @@ Wilson, E.B. (1927) 'Probable inference, the law of succession, and statistical 
 Zadrozny, B. and Elkan, C. (2002) 'Transforming classifier scores into accurate multiclass probability estimates', in *Proceedings of the 8th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*, pp. 694-699.
 =======
 # Diabetics-Research
->>>>>>> 8a1f6e3732b1a2bbb7c125384e18db2631002bba
+
